@@ -18,18 +18,3 @@ Apart from this the total sum of expenses will be displayed on bars according to
 ### Main page when multiple expenses are added for different dates of current week.
 ![image](https://user-images.githubusercontent.com/74453775/203011225-7f596b3c-dd14-4785-9f1b-4c1f88ffd526.png)
 
-### To use this app follow below instructions:
-
-1. Clone this app using below syntax:
-
-   > git clone https://github.com/aliasar1/Expense-Calculator
-
-2. After cloning install packages using below syntax:
-   > flutter pub get
-
-Above command will install all the necessary packages.
-
-3. Run the app on your mobile emulator using below command:
-   > flutter run
-
-### **_Thank you. Happy Coding! 😃_**
